@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="something_went_wrong">Чтото случилось</string>
+</resources>
